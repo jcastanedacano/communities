@@ -1,0 +1,21 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "sjwaight",
+      "samalavi",
+      "arafattehsin"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "MUG Peru",
+    "Country": "Perú",
+    "Url": "https://www.meetup.com/es/msperu/events/285086738/",
+    "Logo": {
+      "Description": "Community logo is a .png file 500X500px named {foldername}.png.",
+      "File": "mugperu.png"
+    },
+    
+      }
+  }
+}
